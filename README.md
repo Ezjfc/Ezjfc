@@ -1,4 +1,4 @@
-![Metrics](/github-metrics.svg)
+[![Metrics](/github-metrics.svg)](https://metrics.lecoq.io/embed)
 <details>
     <summary><h3>Click to learn more about me.</h3></summary>
     <h4>Development Environment</h4>
@@ -6,11 +6,11 @@
 I am a fancier of Sublime Text and Vim,
 my setups are respectively <a href="https://github.com/Endermanbugzjfc/sublime-text-config">here</a>
 and <a href="https://github.com/Endermanbugzjfc/nvim-config">there</a>.
-I have experience with JetBrains IDEs and currently use NvChad daily.
-Sometimes, VSCode via GitHub Codespace is my secondary choice when my device is unavailable.
+I have experience with JetBrains IDEs and currently use NvChad ordinarily.
+Occasionally, VSCode via GitHub Codespace is my secondary choice when my device is unavailable.
 
 For version control,
-I use both Git CLI and Sublime Merge depending on the situation.
+I use Git CLI or Sublime Merge depending on the situation.
 </p>
     <h4>Operating System</h4>
 <p>
