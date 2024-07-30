@@ -1,6 +1,6 @@
 [![Metrics](/github-metrics.svg)](https://metrics.lecoq.io/embed)
 <details>
-    <summary><h3>Click to learn more about me.</h3></summary>
+    <summary><h3>Click here if you wish to learn more about me.</h3></summary>
     <h4>Development Environment</h4>
 <p>
 I am a fancier of Sublime Text and Vim,
@@ -28,5 +28,9 @@ I am highly active on its <a href="https://discord.gg/DYSEf2WGPQ">Discord Server
 <code>zjfc</code> is my Discord tag.
 
 I tend to be apathetic towards other social networking platforms.
+If you wish to enquire further,
+please email me at <a href="mailto:endermanbugzjfc@gmail.com">endermanbugzjfc@gmail.com</a>.
+It might take a while for me to catch the information,
+therefore I appreciate your patience.
 </p>
 </details>
