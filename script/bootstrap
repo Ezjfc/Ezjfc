@@ -1,0 +1,14 @@
+#!/bin/bash
+
+# https://docs.github.com/en/codespaces/setting-your-user-preferences/personalizing-github-codespaces-for-your-account#dotfiles
+
+pushd .
+cd
+wget https://github.com/neovim/neovim/releases/download/v0.9.5/nvim-linux64.tar.gz
+tar -xvzf nvim-linux64.tar.gz
+sudo ln -s nvim-linux64/bin/nvim /usr/bin/nvim
+
+cd .config
+git clone https://github.com/Endermanbugzjfc/nvim-config
+mv nvim-config nvim
+popd
