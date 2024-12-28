@@ -12,3 +12,6 @@ cd .config
 git clone https://github.com/Endermanbugzjfc/nvim-config
 mv nvim-config nvim
 popd
+
+sudo apt -y update
+sudo apt -y install screen
