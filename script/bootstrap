@@ -15,3 +15,4 @@ popd
 
 sudo apt -y update
 sudo apt -y install screen
+sudo apt -y install ripgrep
