@@ -4,7 +4,8 @@
 
 pushd .
 cd
-wget https://github.com/neovim/neovim/releases/download/v0.9.5/nvim-linux64.tar.gz
+#wget https://github.com/neovim/neovim/releases/download/v0.9.5/nvim-linux64.tar.gz
+wget https://github.com/neovim/neovim/releases/latest/download/nvim-linux-x86_64.tar.gz -O nvim-linux64.tar.gz
 tar -xvzf nvim-linux64.tar.gz
 sudo ln -s ~/nvim-linux64/bin/nvim /usr/bin/nvim
 
