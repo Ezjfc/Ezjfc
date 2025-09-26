@@ -1,6 +1,6 @@
 [![Metrics](/github-metrics.svg)](https://metrics.lecoq.io/embed)
 <details>
-    <summary><h3>More about me: (click here)</h3></summary>
+    <summary><h3>Click here if you wish to learn more about me.</h3></summary>
     <h4>Development Environment</h4>
 <p>
 I am a fancier of Sublime Text and Vim,
