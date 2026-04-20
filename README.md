@@ -1,3 +1,11 @@
+![NixOS](https://img.shields.io/badge/NixOS-daily_user-white?style=flat&logo=nixos&logoColor=white&labelColor=5277C3)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-daily_user-white?style=flat&logo=archlinux&logoColor=white&labelColor=1793D1)
+![Nix](https://img.shields.io/badge/Nix-daily_user-white?style=flat&logo=nixos&logoColor=white&labelColor=7EBAE4)
+![Nushell](https://img.shields.io/badge/Nushell-daily_user-white?style=flat&logo=nushell&logoColor=white&labelColor=3AA675)
+![Bash](https://img.shields.io/badge/Bash-daily_user-white?style=flat&logo=gnubash&logoColor=white&labelColor=4EAA25)
+![NeoVim](https://img.shields.io/badge/NeoVim-daily_user-white?style=flat&logo=neovim&logoColor=white&labelColor=57A143)
+![Git](https://img.shields.io/badge/Git-daily_user-white?style=flat&logo=git&logoColor=white&labelColor=F05032)
+
 [![Metrics](/github-metrics.svg)](https://metrics.lecoq.io/embed)
 <details>
     <summary><h3>More about me: (click here)</h3></summary>
